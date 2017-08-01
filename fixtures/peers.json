@@ -1,0 +1,32 @@
+[
+  {
+    "pid": 1,
+    "name": "alpha",
+    "address": "localhost",
+    "host": "apollo",
+    "ipaddr": "127.0.0.1",
+    "updates": 3264,
+    "snapshots": 3265,
+    "requests": 3266
+  },
+  {
+    "pid": 2,
+    "name": "bravo",
+    "address": "localhost",
+    "host": "apollo",
+    "ipaddr": "127.0.0.1",
+    "updates": 3267,
+    "snapshots": 3268,
+    "requests": 3269
+  },
+  {
+    "pid": 3,
+    "name": "charlie",
+    "address": "localhost",
+    "host": "apollo",
+    "ipaddr": "127.0.0.1",
+    "updates": 3270,
+    "snapshots": 3271,
+    "requests": 3272
+  }
+]
